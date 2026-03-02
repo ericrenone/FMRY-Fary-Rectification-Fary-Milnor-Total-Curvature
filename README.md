@@ -1077,7 +1077,3 @@ MNGR(MNVX·MGSF·CMGD) · KKSP(KRPN·KSMC·KZOP) · FMRY(FSLE·FMTC·CKTD)
 ---
 
 *FMRY is the curvature-topology duality layer of the unified framework. Where GXMD provides the extremal combinatorial layer, CAGV the planar-knot invariant layer, MNGR the connectivity-distance layer, and KKSP the forbidden-subdivision-closure layer, FMRY provides the curvature-embedding duality layer: the two theorems of István Fáry — that planar graphs need no curved edges (1948) and that unknotted curves need not bend more than 4π (1949) — are identified as the 2D and 3D faces of a single principle that bounded or minimized curvature forces topological simplicity. λ₁ > 0 (generalization) is the spectral realization of both: the gradient correlation graph G_ℬ is planar (Fáry-rectifiable) and the gradient trajectory γ_T is unknotted (FM-bounded), and the learning manifold ℬ is a Hadamard space (nonpositive sectional curvature), all simultaneously and equivalently.*
-Compacting our conversation so we can keep chatting...
-95%
-
-
